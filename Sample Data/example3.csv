@@ -1,0 +1,48 @@
+case_id;activity;timestamp
+1;(AIM) Extract Status field;2021-06-22 12:00:00+01:17
+1;Status is valid;2021-06-22 12:00:00+01:16
+1;(AIM) Extract AcctExec field;2021-06-22 12:00:00+01:15
+1;(Excel) Enter AcctExec field value;2021-06-22 12:00:00+01:14
+1;(Excel) TeamID lookup in AcctExce sheet;2021-06-22 12:00:00+01:13
+1;Team ID is W-PL;2021-06-22 12:00:00+01:12
+1;(AIM) Extract Prod ID field from Coverages tab;2021-06-22 12:00:00+01:11
+1;(AIM) Extract Effective Date;2021-06-22 12:00:00+01:10
+1;(Excel) Team lookup in ProdID sheet;2021-06-22 12:00:00+01:09
+1;(Excel) Enter Team in payment report;2021-06-22 12:00:00+01:08
+1;(AIM) Extract renewal status;2021-06-22 12:00:00+01:07
+1;(Excel) Enter renewal status;2021-06-22 12:00:00+01:06
+1;(AIM and IR) import submission to ImageRight;2021-06-22 12:00:00+01:05
+1;(IR) Create task for selected primary folder;2021-06-22 12:00:00+01:04
+1;(Excel) Field content lookup in FieldContent sheet;2021-06-22 12:00:00+01:03
+1;(IR) Enter field content;2021-06-22 12:00:00+01:02
+1;(IR) Submit task;2021-06-22 12:00:00+01:01
+1;Go to next payment record;2021-06-22 12:00:00+01:00
+2;(AIM) Extract Status field;2021-06-23 12:00:00+01:14
+2;Status is valid;2021-06-23 12:00:00+01:13
+2;(AIM) Extract AcctExec field;2021-06-23 12:00:00+01:12
+2;(Excel) Enter AcctExec field value;2021-06-23 12:00:00+01:11
+2;(Excel) TeamID lookup in AcctExce sheet;2021-06-23 12:00:00+01:10
+2;Team ID is Allstate Comm. or Brokerage;2021-06-23 12:00:00+01:09
+2;(Excel) Enter Team in payment report;2021-06-23 12:00:00+01:08
+2;(AIM) Extract renewal status;2021-06-23 12:00:00+01:07
+2;(Excel) Enter renewal status;2021-06-23 12:00:00+01:06
+2;(AIM and IR) import submission to ImageRight;2021-06-23 12:00:00+01:05
+2;(IR) Create task for selected primary folder;2021-06-23 12:00:00+01:04
+2;(Excel) Field content lookup in FieldContent sheet;2021-06-23 12:00:00+01:03
+2;(IR) Enter field content;2021-06-23 12:00:00+01:02
+2;(IR) Submit task;2021-06-23 12:00:00+01:01
+2;Go to next payment record;2021-06-23 12:00:00+01:00
+3;(AIM) Extract Status field;2021-06-24 12:00:00+01:02
+3;Status is Binder Issued;2021-06-24 12:00:00+01:01
+3;Go to next payment record;2021-06-24 12:00:00+01:00
+4;(AIM) Extract Status field;2021-06-25 12:00:00+01:02
+4;Status is Policy InForce;2021-06-25 12:00:00+01:01
+4;Go to next payment record;2021-06-25 12:00:00+01:00
+5;(AIM) Extract Status field;2021-06-26 12:00:00+01:07
+5;Status is valid;2021-06-26 12:00:00+01:06
+5;(AIM) Extract AcctExec field;2021-06-26 12:00:00+01:05
+5;(Excel) Enter AcctExec field value;2021-06-26 12:00:00+01:04
+5;(Excel) TeamID lookup in AcctExce sheet;2021-06-26 12:00:00+01:03
+5;Team ID is missing;2021-06-26 12:00:00+01:02
+5;(Excel) Mark team missing;2021-06-26 12:00:00+01:01
+5;Go to next payment record;2021-06-26 12:00:00+01:00

@@ -1,0 +1,45 @@
+case_id;activity;timestamp
+1;(AIM) Create New Payment Batch;2021-06-22 12:00:00+01:18
+1;(AIM) Add Batch Total;2021-06-22 12:00:00+01:17
+1;(AIM) Add New Payment in Batch;2021-06-22 12:00:00+01:16
+1;(AIM) Add Individual Payment Info;2021-06-22 12:00:00+01:15
+1;(AIM) Create Voucher;2021-06-22 12:00:00+01:14
+1;(Excel) Update Payment Allocation Status;2021-06-22 12:00:00+01:13
+1;(AIM) Add New Payment in Batch;2021-06-22 12:00:00+01:12
+1;(AIM) Add Individual Payment Info;2021-06-22 12:00:00+01:11
+1;(AIM) Update Invoice Payment Amount;2021-06-22 12:00:00+01:10
+1;(Excel) Update Payment Allocation Status;2021-06-22 12:00:00+01:09
+1;(AIM) Add New Payment in Batch;2021-06-22 12:00:00+01:08
+1;(AIM) Add Individual Payment Info;2021-06-22 12:00:00+01:07
+1;(Excel) Update Payment Allocation Status;2021-06-22 12:00:00+01:06
+1;(AIM) Add New Payment in Batch;2021-06-22 12:00:00+01:05
+1;(AIM) Add Individual Payment Info;2021-06-22 12:00:00+01:04
+1;(Excel) Update Payment Allocation Status;2021-06-22 12:00:00+01:03
+1;(Excel) Mark Batch out of Balance;2021-06-22 12:00:00+01:02
+1;(Excel) Save in shared folder;2021-06-22 12:00:00+01:01
+1;Send Completion Email;2021-06-22 12:00:00+01:00
+2;(AIM) Create New Payment Batch;2021-06-25 12:00:00+01:10
+2;(AIM) Add Batch Total;2021-06-25 12:00:00+01:09
+2;(AIM) Add New Payment in Batch;2021-06-25 12:00:00+01:08
+2;(AIM) Add Individual Payment Info;2021-06-25 12:00:00+01:07
+2;(Excel) Update Payment Allocation Status;2021-06-25 12:00:00+01:06
+2;(AIM) Add New Payment in Batch;2021-06-25 12:00:00+01:05
+2;(AIM) Add Individual Payment Info;2021-06-25 12:00:00+01:04
+2;(Excel) Update Payment Allocation Status;2021-06-25 12:00:00+01:03
+2;(AIM) Save Batch;2021-06-25 12:00:00+01:02
+2;(Excel) Save in shared folder;2021-06-25 12:00:00+01:01
+2;Send Completion Email;2021-06-25 12:00:00+01:00
+3;(AIM) Create New Payment Batch;2021-06-24 12:00:00+01:12
+3;(AIM) Add Batch Total;2021-06-24 12:00:00+01:11
+3;(AIM) Add New Payment in Batch;2021-06-24 12:00:00+01:10
+3;(AIM) Add Individual Payment Info;2021-06-24 12:00:00+01:09
+"3;Invoice Payment Exceeds 20%
+(Excel);2021-06-24 12:00:00+01:08"
+3;(Excel) Update Payment Allocation Status;2021-06-24 12:00:00+01:07
+3;(AIM) Add New Payment in Batch;2021-06-24 12:00:00+01:06
+3;(AIM) Add Individual Payment Info;2021-06-24 12:00:00+01:05
+3;More than 1 Invoice Payment Exceeds 20% (Excel);2021-06-24 12:00:00+01:04
+3;(Excel) Update Payment Allocation Status;2021-06-24 12:00:00+01:03
+3;(AIM) Save Batch;2021-06-24 12:00:00+01:02
+3;(Excel) Save in shared folder;2021-06-24 12:00:00+01:01
+3;Send Completion Email;2021-06-24 12:00:00+01:00

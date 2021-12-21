@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="1" />
+		<event>
+			<string key="concept:name" value="(AIM) Create New Payment Batch" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:18" />
+			<int key="@@index" value="0" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Batch Total" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:17" />
+			<int key="@@index" value="1" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:16" />
+			<int key="@@index" value="2" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:15" />
+			<int key="@@index" value="3" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Create Voucher" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:14" />
+			<int key="@@index" value="4" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:13" />
+			<int key="@@index" value="5" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:12" />
+			<int key="@@index" value="6" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:11" />
+			<int key="@@index" value="7" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Update Invoice Payment Amount" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:10" />
+			<int key="@@index" value="8" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:09" />
+			<int key="@@index" value="9" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:08" />
+			<int key="@@index" value="10" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:07" />
+			<int key="@@index" value="11" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:06" />
+			<int key="@@index" value="12" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:05" />
+			<int key="@@index" value="13" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:04" />
+			<int key="@@index" value="14" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:03" />
+			<int key="@@index" value="15" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Mark Batch out of Balance" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:02" />
+			<int key="@@index" value="16" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Save in shared folder" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:01" />
+			<int key="@@index" value="17" />
+		</event>
+		<event>
+			<string key="concept:name" value="Send Completion Email" />
+			<date key="time:timestamp" value="2021-06-22T12:00:00+01:00" />
+			<int key="@@index" value="18" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2" />
+		<event>
+			<string key="concept:name" value="(AIM) Create New Payment Batch" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:10" />
+			<int key="@@index" value="19" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Batch Total" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:09" />
+			<int key="@@index" value="20" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:08" />
+			<int key="@@index" value="21" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:07" />
+			<int key="@@index" value="22" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:06" />
+			<int key="@@index" value="23" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:05" />
+			<int key="@@index" value="24" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:04" />
+			<int key="@@index" value="25" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:03" />
+			<int key="@@index" value="26" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Save Batch" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:02" />
+			<int key="@@index" value="27" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Save in shared folder" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:01" />
+			<int key="@@index" value="28" />
+		</event>
+		<event>
+			<string key="concept:name" value="Send Completion Email" />
+			<date key="time:timestamp" value="2021-06-25T12:00:00+01:00" />
+			<int key="@@index" value="29" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="3" />
+		<event>
+			<string key="concept:name" value="(AIM) Create New Payment Batch" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:12" />
+			<int key="@@index" value="30" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Batch Total" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:11" />
+			<int key="@@index" value="31" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:10" />
+			<int key="@@index" value="32" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:09" />
+			<int key="@@index" value="33" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:07" />
+			<int key="@@index" value="35" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add New Payment in Batch" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:06" />
+			<int key="@@index" value="36" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Add Individual Payment Info" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:05" />
+			<int key="@@index" value="37" />
+		</event>
+		<event>
+			<string key="concept:name" value="More than 1 Invoice Payment Exceeds 20% (Excel)" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:04" />
+			<int key="@@index" value="38" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Update Payment Allocation Status" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:03" />
+			<int key="@@index" value="39" />
+		</event>
+		<event>
+			<string key="concept:name" value="(AIM) Save Batch" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:02" />
+			<int key="@@index" value="40" />
+		</event>
+		<event>
+			<string key="concept:name" value="(Excel) Save in shared folder" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:01" />
+			<int key="@@index" value="41" />
+		</event>
+		<event>
+			<string key="concept:name" value="Send Completion Email" />
+			<date key="time:timestamp" value="2021-06-24T12:00:00+01:00" />
+			<int key="@@index" value="42" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="3;Invoice Payment Exceeds 20%
+(Excel);2021-06-24 12:00:00+01:08" />
+		<event>
+			<float key="concept:name" value="nan" />
+			<float key="time:timestamp" value="nan" />
+			<int key="@@index" value="34" />
+		</event>
+	</trace>
+</log>
