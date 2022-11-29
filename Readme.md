@@ -15,7 +15,7 @@ Scalable? <br> *(Can process be run by multiple bots in parallel?)* | Yes
 Package Name | High-Level Description
 --- | ---
 [UIPath System Activities](https://docs.uipath.com/activities/docs/about-the-system-activities-pack) | Core activities which enable the robots to manipulate data tables and collections, work with files and folders, communicate with Orchestrator. Package also contains workflow operators, dialog forms, debugging and invoking methods.
-[UIPath Python Activities](https://docs.uipath.com/activities/docs/about-the-python-activities-pack) | Package contains activities which enable the automation of Jira using the Jira REST API from Python.
+[UIPath Python Activities](https://docs.uipath.com/activities/docs/about-the-python-activities-pack) | Package contains activities which enable the use of Python.
 [UIPath UIAutomation Activities](https://docs.uipath.com/activities/docs/about-the-ui-automation-activities-pack) | Package contains core activities which enable the automation of desktop applications, browsers, and virtual machines.
 ### Master Project Runtime Details
 Item | Details
