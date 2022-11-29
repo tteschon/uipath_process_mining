@@ -35,7 +35,7 @@ Item | Details
 Environment used for development <br> *Name, location, configuration details etc* | 
 Environment prerequisites <br> *OS details, libraries, required apps* | [Hardware & Software Requirements for UIPath](https://docs.uipath.com/installation-and-upgrade/docs/robot-hardware-and-software-requirements) <br> [Python 3.9.7](https://www.python.org/downloads/release/python-397/) installed and added to Path. <br> [PM4PY python package]() installed. (Package was installed using [Pip 21.2.3](https://pip.pypa.io/))
 Logging level | Execution Logs are stored at 'C:\users\\***username***\AppData\Local\UIPath\Logs' and are also sent to Orchestrator and displayed in the Logs section of the Jobs or Robots pages.
-Details about automation <br> *if the apps were automated using UI Automation, Image & Text* | Automation leverages the jira_functions.py python script to access Jira API REST functions.
+Details about automation <br> *if the apps were automated using UI Automation, Image & Text* | Automation leverages process mining python scripts to access an array of process mining functions.
 Repository for project <br> *where the developed project is stored* |
 List of reused components | 
 Custom logs defined in the workflows <br> *where Throw Activity was used or custom log message was defined* | N/A
