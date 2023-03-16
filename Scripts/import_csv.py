@@ -43,7 +43,7 @@ def end_activities(file_path):
 def generate_bpmn(file_path):
     event_log = import_file(file_path)
     #event_log = pm4py.read_xes(file_path)
-    process_tree = pm4py.discover_tree_inductive(event_log)
+    process_tree = pm4py.discover_process_tree_inductive(event_log)
     bpmn_model = pm4py.convert_to_bpmn(process_tree)
     return pm4py.view_bpmn(bpmn_model)
 
